@@ -1,4 +1,5 @@
-## About me:
+## > About Me:
+- Increasing knowledge;
 
 <!--
 **gitAgaka/gitAgaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
